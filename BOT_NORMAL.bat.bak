@@ -1,0 +1,3 @@
+@echo off
+
+python forever2.py index2.py

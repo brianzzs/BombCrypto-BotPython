@@ -1,0 +1,24 @@
+  time_intervals:
+
+    send_heroes_for_work: 13
+    refresh_heroes_positions: 5
+    check_for_new_map_button: 5 #Segundos
+    check_for_login: 1 #Minutos
+    interval_between_movements: 0.8
+#precisao
+  threshold:
+    default: 0.7
+    common: 0.8
+    select_wallet_buttons: 0.8
+    go_to_work_btn: 0.9
+    green_bar: 0.9
+    work_all: 0.9
+
+
+#Tamanho do scroll e modo dos herois
+  scroll_size: 80
+  scroll_attemps: 3
+  use_click_and_drag_instead_of_scroll: true
+  click_and_drag_amount: 320
+  select_heroes_mode: ""
+  save_log_to_file: False
